@@ -1,3 +1,3 @@
 # Blog App
 
-![](https://github.com/sinisabecic/blog/tree/master/src/media/blog.gif).
+!(https://github.com/sinisabecic/blog/blob/master/src/media/blog.gif?raw=true)
