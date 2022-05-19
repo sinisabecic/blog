@@ -1,3 +1,3 @@
 # Blog App
 
-(https://i.ibb.co/CnPhfQQ/blog.gif)
+![](https://i.ibb.co/CnPhfQQ/blog.gif)
