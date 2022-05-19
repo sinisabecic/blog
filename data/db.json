@@ -1,0 +1,22 @@
+{
+  "blog": [
+    {
+      "title": "Stanojević: Voždovac je sposoban da unese pometnju, nadam se da mogu da pobede našeg rivala",
+      "description": "Strateg Partizana svestan težine gostovanja u Zaplanjskoj",
+      "author": "Mozzartsport.com",
+      "content": "Dueli sa Voždovcem u prethodnom periodu postali su rutina za Partizan, tako makar govore rezultati na prethodnih pet susreta u kojima su crno-beli sa isto toliko trijumfa i gol razlikom 16:0. Ipak, uprkos statistici Aleksandar Stanojević je dan pre gostovanja u Zaplanjskoj ulici zakazanog za 16. časova u okviru 36. kola Superlige Srbije istakao kvalitet Zmajeva uz napomenu da bi upravo oni mogli da budu tim koji će uneti pometnju u šampionsku trku s obzirom na to da e u poslednja dva kola odmeriti snage sa pretendentima na šampionsku krunu.",
+      "url": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2022_05/1652628344489_PARTIZAN-VOJVODINA_74_Cropped_(1).jpg",
+      "done": true,
+      "id": 1
+    },
+    {
+      "title": "Verder se vraća u Bundesligu, Hamburger ide u baraž",
+      "description": " Sve je poznato posle 34. kola Cvajte",
+      "author": "Mozzartsport.com",
+      "content": "Okončana je Cvajta. Najbitnija informacije je da se Šalke posle samo jedne sezone vraća u Bundesligu, u eliti je i Verder Brene, a na trećem mestu se našao Hamburger koji će takođe imati priliku da se plasira u Bundesligu.  Podsetimo da treće takođe potencijalno donosi mesto u eliti, samo na putu do nje će stajati Herta kao 14. plasirani tim Bundeslige ove sezone.",
+      "url": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2022_05/1652629953331_verder.jpg",
+      "done": true,
+      "id": 2
+    }
+  ]
+}
