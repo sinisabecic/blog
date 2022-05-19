@@ -1,3 +1,3 @@
 # Blog App
 
-!(https://github.com/sinisabecic/blog/blob/master/src/media/blog.gif?raw=true)
+(https://i.ibb.co/CnPhfQQ/blog.gif)
