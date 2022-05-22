@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link /*useNavigate*/ } from "react-router-dom";
 import toast from "react-hot-toast";
 import api from "../services/api";
 
 const Blog = () => {
-  let navigate = useNavigate();
+  // let navigate = useNavigate();
 
   const [posts, setPosts] = useState([]);
   // const [isLoading, setIsLoading] = useState(true);
