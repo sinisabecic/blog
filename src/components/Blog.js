@@ -73,7 +73,7 @@ const Blog = () => {
             <div key={post.id} className="col s12 m6 l3">
               <div className="card card-reveal">
                 <div className="card-image waves-effect waves-block waves-light">
-                  <img className="activator" src={post.url} />
+                  <img className="activator" src={post.url} alt={post.title} />
                 </div>
                 <div className="card-content">
                   <span
