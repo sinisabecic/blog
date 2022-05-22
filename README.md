@@ -1,3 +1,3 @@
 # Blog App
 
-![Image](https://github.com/sinisabecic/blog/tree/master/src/media/blog.gif).
+![alt_img](https://github.com/sinisabecic/blog/tree/master/src/media/blog.gif).
